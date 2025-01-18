@@ -4,16 +4,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🚀 About Me
 
-- 💻 I specialize in [your specialization, e.g., web development, data science, etc.].
-- 🎓 I have a background in [your background, e.g., Computer Science, Software Engineering, etc.].
-- 🌱 Currently, I'm learning [technologies or topics you're currently learning].
-- 📫 How to reach me: [your email or social media links].
+- 💻 I specialize in Artificial Intelligence, iOS Mobile App Developing and Robotics.
+- 🎓 I have a background in Computer Science and Business.
+- 🌱 Currently, I'm learning Swift and new Python skills.
+- 📫 How to reach me: burakilginnn@gmail.com.
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: [list your programming languages, e.g., Python, JavaScript, etc.]
-- Frameworks & Libraries: [list your frameworks and libraries, e.g., React, Django, etc.]
-- Tools & Platforms: [list your tools and platforms, e.g., Git, Docker, etc.]
+- Programming Languages: Python, C, C++, HTML5, CSS3
+- Frameworks & Libraries: LangChain
 
 ## 📈 GitHub Stats
 
@@ -27,16 +26,11 @@ Here are some of my top projects:
 2. [Project Name](link to project) - Brief description of the project.
 3. [Project Name](link to project) - Brief description of the project.
 
-## 📝 Blog & Writing
-
-- [Blog Post Title](link to blog post) - Brief description of the blog post.
-- [Blog Post Title](link to blog post) - Brief description of the blog post.
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](link to your LinkedIn profile)
-- [Twitter](link to your Twitter profile)
-- [Other Social Media](link to your other social media profiles)
+- [LinkedIn](https://www.linkedin.com/in/burakilginn/)
+- [StackOverFlow](https://stackoverflow.com/users/22163601/crystal)
 
 Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate on a project or just say hi!
 
