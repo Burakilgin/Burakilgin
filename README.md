@@ -1,4 +1,4 @@
-# Hi there, I'm Burakilgin 👋
+# Hi there, I'm Burak Ilgin 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you'll find a collection of my projects, contributions, and interests.
 
