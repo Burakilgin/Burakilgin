@@ -26,4 +26,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate on a project or just say hi!
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Burakilgin.Burakilgin)
