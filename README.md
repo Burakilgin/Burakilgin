@@ -14,11 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - Programming Languages: Python, C, C++, HTML5, CSS3
 - Frameworks & Libraries: LangChain
 
-## 📈 GitHub Stats
-
-![Burakilgin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burakilgin&show_icons=true&theme=radical)
-
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/burakilginn/)
