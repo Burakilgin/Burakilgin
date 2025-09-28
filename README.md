@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: Python, C, C++, HTML5, CSS3
+- Programming Languages: Python, C, C++, HTML5, CSS3, Swift
 - Frameworks & Libraries: LangChain
 
 ## 🌐 Connect with Me
