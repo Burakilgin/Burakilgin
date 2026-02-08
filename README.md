@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/burakilginn/)
-- [StackOverFlow](https://stackoverflow.com/users/22163601/crystal)
 
 Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate on a project or just say hi!
 
