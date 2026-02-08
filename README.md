@@ -14,9 +14,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - Programming Languages: Python, C, C++, HTML5, CSS3, Swift
 - Frameworks & Libraries: LangChain
 
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/burakilginn/)
-
 Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate on a project or just say hi!
 
