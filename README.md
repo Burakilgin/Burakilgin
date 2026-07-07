@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: Python, C, C++, HTML5, CSS3, Swift
+- Programming Languages: Python, C, C++, HTML5, CSS3, Swift, Flutter
 - Frameworks & Libraries: LangChain
 
 Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate on a project or just say hi!
