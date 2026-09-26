@@ -16,3 +16,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate on a project or just say hi!
 
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Burakilgin&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burakilgin&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burakilgin&theme=radical" />
+</p>
